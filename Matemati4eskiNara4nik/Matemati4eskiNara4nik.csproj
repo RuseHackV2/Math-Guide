@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D3AD8C55-5A9C-49E4-82D5-65C33CB791EE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Matemati4eskiNara4nik</RootNamespace>
+    <AssemblyName>Matemati4eskiNara4nik</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAvtori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAvtori.Designer.cs">
+      <DependentUpon>FormAvtori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDrobi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDrobi.Designer.cs">
+      <DependentUpon>FormDrobi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGreshkaValutiKurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGreshkaValutiKurs.Designer.cs">
+      <DependentUpon>FormGreshkaValutiKurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGreshkaValutiNishto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGreshkaValutiNishto.Designer.cs">
+      <DependentUpon>FormGreshkaValutiNishto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGreshkaValutiValuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGreshkaValutiValuta.Designer.cs">
+      <DependentUpon>FormGreshkaValutiValuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKvadratniUravneniq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKvadratniUravneniq.Designer.cs">
+      <DependentUpon>FormKvadratniUravneniq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLicenaPravoagalnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLicenaPravoagalnik.Designer.cs">
+      <DependentUpon>FormLicenaPravoagalnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLicenatriagalnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLicenatriagalnik.Designer.cs">
+      <DependentUpon>FormLicenatriagalnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMerniEdinici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMerniEdinici.Designer.cs">
+      <DependentUpon>FormMerniEdinici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNAgalnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNAgalnik.Designer.cs">
+      <DependentUpon>FormNAgalnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNagalnikGreshka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNagalnikGreshka.Designer.cs">
+      <DependentUpon>FormNagalnikGreshka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOkrujnost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOkrujnost.Designer.cs">
+      <DependentUpon>FormOkrujnost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTriagalnikGreshka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTriagalnikGreshka.Designer.cs">
+      <DependentUpon>FormTriagalnikGreshka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormValuti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormValuti.designer.cs">
+      <DependentUpon>FormValuti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGreshkaChisti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGreshkaChisti.Designer.cs">
+      <DependentUpon>FormGreshkaChisti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu_Na4alo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu_Na4alo.Designer.cs">
+      <DependentUpon>FormMenu_Na4alo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormObikolkaNaTriagalnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormObikolkaNaTriagalnik.Designer.cs">
+      <DependentUpon>FormObikolkaNaTriagalnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormObikolkaPravoagalnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormObikolkaPravoagalnik.Designer.cs">
+      <DependentUpon>FormObikolkaPravoagalnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGreshka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGreshka.Designer.cs">
+      <DependentUpon>FormGreshka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormAvtori.resx">
+      <DependentUpon>FormAvtori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDrobi.resx">
+      <DependentUpon>FormDrobi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGreshkaValutiKurs.resx">
+      <DependentUpon>FormGreshkaValutiKurs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGreshkaValutiNishto.resx">
+      <DependentUpon>FormGreshkaValutiNishto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGreshkaValutiValuta.resx">
+      <DependentUpon>FormGreshkaValutiValuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKvadratniUravneniq.resx">
+      <DependentUpon>FormKvadratniUravneniq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLicenaPravoagalnik.resx">
+      <DependentUpon>FormLicenaPravoagalnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLicenatriagalnik.resx">
+      <DependentUpon>FormLicenatriagalnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMerniEdinici.resx">
+      <DependentUpon>FormMerniEdinici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNAgalnik.resx">
+      <DependentUpon>FormNAgalnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNagalnikGreshka.resx">
+      <DependentUpon>FormNagalnikGreshka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOkrujnost.resx">
+      <DependentUpon>FormOkrujnost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTriagalnikGreshka.resx">
+      <DependentUpon>FormTriagalnikGreshka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormValuti.resx">
+      <DependentUpon>FormValuti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGreshkaChisti.resx">
+      <DependentUpon>FormGreshkaChisti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu_Na4alo.resx">
+      <DependentUpon>FormMenu_Na4alo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormObikolkaNaTriagalnik.resx">
+      <DependentUpon>FormObikolkaNaTriagalnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormObikolkaPravoagalnik.resx">
+      <DependentUpon>FormObikolkaPravoagalnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGreshka.resx">
+      <DependentUpon>FormGreshka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ImePrograma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KVCrewLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pravoagalnikFormobikolka.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error-7-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textPravougulnik1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ZnakGreshka.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ButtonIz4isli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KartinkaButtonIz4isli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KartinkaButtonIz4isti.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ButtonPresmetni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textPravougulnik.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\daljina.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skorost.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plosht.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Obem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nalqgane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\auto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kvcrewlogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kvcrewlogo11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\r.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zaNas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alfa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gamma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fblogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vavedeteradius.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\radius.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\triag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i4isti.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i4isti1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\presmetni.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

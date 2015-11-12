@@ -1,0 +1,230 @@
+D:\Visual c# my projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Matemati4eskiNara4nik.exe
+D:\Visual c# my projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Matemati4eskiNara4nik.pdb
+D:\Visual c# my projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\Visual c# my projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Matemati4eskiNara4nik.FormPurviEkran.resources
+D:\Visual c# my projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\Visual c# my projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\Visual c# my projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\Visual c# my projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.exe
+D:\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.pdb
+D:\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaPravoagalnik.resources
+D:\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormPurviEkran.resources
+D:\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshka.resources
+D:\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\Visual c# my projects\Calculator\Newest\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.exe
+D:\Visual c# my projects\Calculator\Newest\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.pdb
+D:\Visual c# my projects\Calculator\Newest\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaChisti.resources
+D:\Visual c# my projects\Calculator\Newest\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\Visual c# my projects\Calculator\Newest\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaPravoagalnik.resources
+D:\Visual c# my projects\Calculator\Newest\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormPurviEkran.resources
+D:\Visual c# my projects\Calculator\Newest\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshka.resources
+D:\Visual c# my projects\Calculator\Newest\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\Visual c# my projects\Calculator\Newest\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\Visual c# my projects\Calculator\Newest\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\Visual c# my projects\Calculator\Newest\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\Visual c# my projects\Calculator\Newest\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaNaTriagalnik.resources
+D:\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaChisti.resources
+D:\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaNaTriagalnik.resources
+D:\Visual c# my projects\Calculator\Newest\Kris\Matemati4eskiNara4nik (1)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.exe
+D:\Visual c# my projects\Calculator\Newest\Kris\Matemati4eskiNara4nik (1)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.pdb
+D:\Visual c# my projects\Calculator\Newest\Kris\Matemati4eskiNara4nik (1)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaChisti.resources
+D:\Visual c# my projects\Calculator\Newest\Kris\Matemati4eskiNara4nik (1)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\Visual c# my projects\Calculator\Newest\Kris\Matemati4eskiNara4nik (1)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaNaTriagalnik.resources
+D:\Visual c# my projects\Calculator\Newest\Kris\Matemati4eskiNara4nik (1)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaPravoagalnik.resources
+D:\Visual c# my projects\Calculator\Newest\Kris\Matemati4eskiNara4nik (1)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormPurviEkran.resources
+D:\Visual c# my projects\Calculator\Newest\Kris\Matemati4eskiNara4nik (1)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshka.resources
+D:\Visual c# my projects\Calculator\Newest\Kris\Matemati4eskiNara4nik (1)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\Visual c# my projects\Calculator\Newest\Kris\Matemati4eskiNara4nik (1)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\Visual c# my projects\Calculator\Newest\Kris\Matemati4eskiNara4nik (1)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\Visual c# my projects\Calculator\Newest\Kris\Matemati4eskiNara4nik (1)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.exe
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.pdb
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaChisti.resources
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormNAgalnik.resources
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaNaTriagalnik.resources
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaPravoagalnik.resources
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormPurviEkran.resources
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshka.resources
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\Vizor40\Matemati4eskiNara4nik(10.8.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+F:\Matemati4eskiNara4nik(23.10.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+F:\Matemati4eskiNara4nik(23.10.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.exe
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.pdb
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiKurs.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiNishto.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiValuta.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormMerniEdinici.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormValuti.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaChisti.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormNAgalnik.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaNaTriagalnik.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaPravoagalnik.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormPurviEkran.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshka.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\MyDoc\9V\Matemati4eskiNara4nik(31.10.15; na4alo - link)\Matemati4eskiNara4nik(30.10.15; na4alo - link)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.exe
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.pdb
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiKurs.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiNishto.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiValuta.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormMerniEdinici.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormValuti.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaChisti.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormNAgalnik.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaNaTriagalnik.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaPravoagalnik.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormPurviEkran.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshka.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik4.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.exe
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.pdb
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiKurs.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiNishto.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiValuta.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormMerniEdinici.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormNAgalnik.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormOkrujnost.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormValuti.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaChisti.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaNaTriagalnik.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaPravoagalnik.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormPurviEkran.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshka.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15; merni edinici)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.exe
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.pdb
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormDrobi.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiKurs.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiNishto.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiValuta.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormKvadratniUravneniq.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormMerniEdinici.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormNAgalnik.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormOkrujnost.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormValuti.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaChisti.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaNaTriagalnik.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaPravoagalnik.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormPurviEkran.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshka.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\Students files\Informatika\9в\123\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.exe
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.pdb
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormDrobi.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiKurs.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiNishto.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiValuta.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormKvadratniUravneniq.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormMerniEdinici.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormNAgalnik.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormOkrujnost.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormValuti.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaChisti.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaNaTriagalnik.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaPravoagalnik.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshka.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.exe
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.pdb
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csprojResolveAssemblyReference.cache
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormDrobi.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiKurs.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiNishto.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiValuta.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormKvadratniUravneniq.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormMerniEdinici.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormNAgalnik.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormOkrujnost.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormValuti.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaChisti.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaNaTriagalnik.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaPravoagalnik.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshka.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormTriagalnikGreshka.resources
+D:\Matemati4eskiNara4nik6.11.15.1.1\Matemati4eskiNara4nik(6.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormNagalnikGreshka.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csprojResolveAssemblyReference.cache
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormDrobi.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiKurs.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiNishto.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiValuta.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormKvadratniUravneniq.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormLicenaPravoagalnik.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormMerniEdinici.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormNAgalnik.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormNagalnikGreshka.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormOkrujnost.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormTriagalnikGreshka.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormValuti.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaChisti.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaNaTriagalnik.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaPravoagalnik.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshka.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.exe
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.pdb
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.exe
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.pdb
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.exe
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\bin\Release\Matemati4eskiNara4nik.pdb
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csprojResolveAssemblyReference.cache
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormAvtori.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormDrobi.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiKurs.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiNishto.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaValutiValuta.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormKvadratniUravneniq.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormLicenaPravoagalnik.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormMerniEdinici.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormNAgalnik.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormNagalnikGreshka.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormOkrujnost.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormTriagalnikGreshka.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormValuti.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshkaChisti.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\WindowsFormsApplication1.FormNachalo.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaNaTriagalnik.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormObikolkaPravoagalnik.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormGreshka.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.Properties.Resources.resources
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.csproj.GenerateResource.Cache
+D:\programa\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormLicenatriagalnik.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormAvtori.resources
+D:\Visual c# my projects\Calculator\Matemati4eskiNara4nik(7.11.15)\Matemati4eskiNara4nik\Matemati4eskiNara4nik\obj\x86\Release\Matemati4eskiNara4nik.FormLicenatriagalnik.resources
